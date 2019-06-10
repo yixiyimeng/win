@@ -8,13 +8,3 @@ npm-debug.log
 npm-debug.log.*
 thumbs.db
 !.gitkeep
-
-
-# dist
-dist/
-
-# package-lock.json
-package-lock.json
-
-# static
-static/
